@@ -1,11 +1,10 @@
 node_modules/
-package-lock.json
+.svelte-kit/
 .env
 .env.*
 dist/
 build/
 .next/
-.svelte-kit/
 coverage/
 .DS_Store
 *.log
